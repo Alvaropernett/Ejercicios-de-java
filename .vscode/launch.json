@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejercicio29",
+            "request": "launch",
+            "mainClass": "Ejercicio29",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio41",
+            "request": "launch",
+            "mainClass": "ejercicio41",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio42",
+            "request": "launch",
+            "mainClass": "ejercicio42",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio10",
+            "request": "launch",
+            "mainClass": "ejercicio10",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio11",
+            "request": "launch",
+            "mainClass": "ejercicio11",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio12",
+            "request": "launch",
+            "mainClass": "ejercicio12",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio13",
+            "request": "launch",
+            "mainClass": "ejercicio13",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio14",
+            "request": "launch",
+            "mainClass": "ejercicio14",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio15",
+            "request": "launch",
+            "mainClass": "ejercicio15",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio16",
+            "request": "launch",
+            "mainClass": "ejercicio16",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio2",
+            "request": "launch",
+            "mainClass": "ejercicio2",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio3",
+            "request": "launch",
+            "mainClass": "ejercicio3",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio30",
+            "request": "launch",
+            "mainClass": "ejercicio30",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio31",
+            "request": "launch",
+            "mainClass": "ejercicio31",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio32",
+            "request": "launch",
+            "mainClass": "ejercicio32",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio33",
+            "request": "launch",
+            "mainClass": "ejercicio33",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio34",
+            "request": "launch",
+            "mainClass": "ejercicio34",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio35",
+            "request": "launch",
+            "mainClass": "ejercicio35",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio36",
+            "request": "launch",
+            "mainClass": "ejercicio36",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio4",
+            "request": "launch",
+            "mainClass": "ejercicio4",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio43",
+            "request": "launch",
+            "mainClass": "ejercicio43",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio5",
+            "request": "launch",
+            "mainClass": "ejercicio5",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio52",
+            "request": "launch",
+            "mainClass": "ejercicio52",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio53",
+            "request": "launch",
+            "mainClass": "ejercicio53",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio58",
+            "request": "launch",
+            "mainClass": "ejercicio58",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio6",
+            "request": "launch",
+            "mainClass": "ejercicio6",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio7",
+            "request": "launch",
+            "mainClass": "ejercicio7",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio8",
+            "request": "launch",
+            "mainClass": "ejercicio8",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio9",
+            "request": "launch",
+            "mainClass": "ejercicio9",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        },
+        {
+            "type": "java",
+            "name": "ejerciciossemestre2",
+            "request": "launch",
+            "mainClass": "ejerciciossemestre2",
+            "projectName": "ejerciciossemestre2_eab00bfb"
+        }
+    ]
+}
